@@ -1,8 +1,5 @@
 # Dakota Miller
 
-_Software engineer and lifetime learner based in Denver, Colorado_ 
-
-
 _Software engineer and lifelong learner with advanced skills in reporting and SQL query development / optimization; database administration and management; workforce management; training; interdepartmental, intradepartmental, and C-Level communications;  and longstanding history of successful report development covering contact center performance. <br>Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
 
 <br>
@@ -83,5 +80,5 @@ GameStop is an American video game, consumer electronics, and gaming merchandise
 ## 🎤 Public Speaking / 🎓 Giving Back
 
 - **Annual Alumni Visit @ MSU Denver**
-  - CS 1400: Mostly freshmen students studying Computer Architecture I, I deliver a brief talk covering success strategies for college students, addressing both common and uncommon situations students may find themselves in
-  - CS 3810: Mostly junior students studying Principles of Database Systems, I deliver a discussion surrounding the practical application of education in relational database systems and SQL (Structured Query Language)
+  - CS 1400: Mostly freshmen students studying Computer Architecture I, I deliver a brief talk covering success strategies for college students addressing both common and uncommon situations students may find themselves in
+  - CS 3810: Mostly junior students studying Principles of Database Systems, I deliver a discussion surrounding the practical application of course concepts in relational database systems and SQL (Structured Query Language)
