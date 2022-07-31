@@ -1,4 +1,4 @@
-# Dakota Miller
+# Dakota M. Miller
 
 _Software engineer and lifelong learner with advanced skills in reporting and SQL query development / optimization; database administration and management; workforce management; training; interdepartmental, intradepartmental, and C-Level communications;  and longstanding history of successful report development covering contact center performance. <br>Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
 
@@ -10,10 +10,10 @@ _Software engineer and lifelong learner with advanced skills in reporting and SQ
 
 **ETL Developer II** @ [Arrow](https://www.arrow.com/) _(May 2022 - Present)_ <br>
 Arrow Electronics specializes in distribution and value added services relating to electronic components and computer products.
-- Performed advanced ETL development activities independently and as part of a team using Informatica, PL/SQL, Oracle Database tuning, SQL tuning, Informatica Server administration, etc.
+- Performed ETL development activities independently and as part of a team using Informatica, PL/SQL, Oracle Database tuning, SQL tuning, BTEQ scripting, etc.
 - Provide data analysis to support new project definition/design as well as to troubleshoot/resolve issues with existing subject areas.
 - Create, update and maintain project documents including (but not limited to): business requirements, functional and non-functional requirements, functional and technical design, data mapping, etc. surrounding assigned work and a high volume, multi-terabyte 24/7 data warehouse application
-- **_Technologies used:_** AppWorx Workload Automation, Informatica Suite, Teradata SQL Assistant, Toad for Oracle, WinSCP, Microsoft Office, Jira, Toggl Track, SharePoint
+- **_Technologies used:_** AppWorx Workload Automation, Informatica Suite, Teradata SQL Assistant, WinSCP, Microsoft Office, Jira, Toggl Track, Microsoft SharePoint
 <br><br>
 
 **Product Owner** @ [Arrow](https://www.arrow.com/) _(Feb 2022 - May 2022)_ <br>
@@ -25,10 +25,10 @@ Arrow Electronics specializes in distribution and value added services relating 
 **Software Engineer III - Database Development** @ [DISH](https://www.dish.com) _(Jun 2021 - Feb 2022)_ <br>
 DISH is an American direct-broadcast satellite television provider and owner of the over-the-top IPTV service, Sling TV. Additionally, Dish offers a mobile wireless service, Dish Wireless, and intends to add postpaid service as well in the future.
 - Acted as project manager for a business-critical database migration project (TD → AWS) coordinating between enterprise IT and CX teams
-- Performed User Acceptance Testing and validations on **150+ database objects** as part of this initiative
+  - Performed User Acceptance Testing and validations on **150+ database objects** as part of this initiative
 - Designed, documented, and implemented a scalable automated trimming/archiving solution for active use on **10+ production servers**
 - Proactively initiated future-proofing database systems by researching and training in all aspects of DBMS
-- **_Technologies used:_** SQL Server 2016, SSMS, SSIS, Microsoft OFfice, Google Workspace, Teradata SQL Assistant, JetBrains DataGrip, Amazon Web Services (Redshift, S3, Snowflake)
+- **_Technologies used:_** SQL Server 2016, SSMS, SSIS, Microsoft Office, Google Workspace, Teradata SQL Assistant, JetBrains DataGrip, Amazon Web Services (Redshift, S3, Snowflake)
 <br><br>
 
 **Biz Ops Analyst I → II → III → Sr. Analyst** @ [DISH](https://www.dish.com) _(May 2018 - Jun 2021)_ <br>
@@ -63,7 +63,7 @@ GameStop is an American video game, consumer electronics, and gaming merchandise
 **Master of Science** in Computer Science<br>
 [Georgia Institute of Technology](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) - Atlanta, Georgia, USA _(2022 - 2027)_
 
-**Bachelor of Science** in Computer Science<br>
+**Bachelor of Science** in Computer Science, Minor in Mathematics<br>
 [Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) - Denver, Colorado, USA _(2020 - 2022)_
 
 **Associate of General Studies**<br>
