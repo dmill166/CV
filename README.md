@@ -1,6 +1,6 @@
 # Dakota M. Miller
 
-_Software engineer and lifelong learner with advanced skills in reporting and SQL query development / optimization; database administration and management; workforce management; training; interdepartmental, intradepartmental, and C-Level communications;  and longstanding history of successful report development covering contact center performance. <br>Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
+_Software engineer (specializing in data/databses) and lifelong learner with advanced skills in reporting and SQL query development / optimization; database administration and management; workforce management; training; interdepartmental, intradepartmental, and C-Level communications;  and longstanding history of successful report development covering contact center performance. <br>Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
 
 <br>
 
