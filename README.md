@@ -8,7 +8,7 @@ _Software engineer (specializing in data/databases) and lifelong learner with ad
 
 ## 👨‍💻 Professional Experience
 
-**ETL Developer II** @ [Arrow](https://www.arrow.com/) _(May 2022 - Present)_ <br>
+**ETL Engineer II** @ [Arrow](https://www.arrow.com/) _(May 2022 - Present)_ <br>
 Arrow Electronics specializes in distribution and value added services relating to electronic components and computer products.
 - Performed ETL development activities independently and as part of a team using Informatica, PL/SQL, Oracle Database tuning, SQL tuning, BTEQ scripting, etc.
 - Provide data analysis to support new project definition/design as well as to troubleshoot/resolve issues with existing subject areas.
