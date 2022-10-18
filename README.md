@@ -10,10 +10,10 @@ _Software engineer (specializing in data/databases) and lifelong learner with ad
 
 **ETL Engineer II** @ [Arrow](https://www.arrow.com/) _(May 2022 - Present)_ <br>
 Arrow Electronics specializes in distribution and value added services relating to electronic components and computer products.
-- Performed ETL development activities independently and as part of a team using Informatica, PL/SQL, Oracle Database tuning, SQL tuning, BTEQ scripting, etc.
-- Provide data analysis to support new project definition/design as well as to troubleshoot/resolve issues with existing subject areas.
+- Performed ETL development activities independently and as part of a team using Informatica, Oracle Database tuning, Teradata Database tuning, SQL tuning, BTEQ scripting, etc.
+- Provide data analysis through visualization softwares and spreadsheet technologies to support new project definition/design as well as to troubleshoot/resolve issues with existing subject areas.
 - Create, update and maintain project documents including (but not limited to): business requirements, functional and non-functional requirements, functional and technical design, data mapping, etc. surrounding assigned work and a high volume, multi-terabyte 24/7 data warehouse application
-- **_Technologies used:_** AppWorx Workload Automation, Informatica Suite, Teradata SQL Assistant, WinSCP, Microsoft Office, Jira, Toggl Track, Microsoft SharePoint
+- **_Technologies used:_** AppWorx Workload Automation, Informatica PowerCenter, Teradata SQL Assistant, WinSCP, Microsoft Office, Jira, Toggl Track, Microsoft SharePoint, Microsoft SQL Server, PowerBI, Transact SQL (T-SQL)
 <br><br>
 
 **Product Owner** @ [Arrow](https://www.arrow.com/) _(Feb 2022 - May 2022)_ <br>
@@ -28,14 +28,14 @@ DISH is an American direct-broadcast satellite television provider and owner of 
   - Performed User Acceptance Testing and validations on **150+ database objects** as part of this initiative
 - Designed, documented, and implemented a scalable automated trimming/archiving solution for active use on **10+ production servers**
 - Proactively initiated future-proofing database systems by researching and training in all aspects of DBMS
-- **_Technologies used:_** SQL Server 2016, SSMS, SSIS, Microsoft Office, Google Workspace, Teradata SQL Assistant, JetBrains DataGrip, Amazon Web Services (Redshift, S3, Snowflake)
+- **_Technologies used:_** SQL Server 2016, SQL Server Management Studio (SSMS), Transact SQL (T-SQL), Microsoft Office, Google Workspace, Teradata SQL Assistant, JetBrains DataGrip, Amazon Web Services (AWS) [Athena, Redshift, S3, Snowflake]
 <br><br>
 
 **Biz Ops Analyst I → II → III → Sr. Analyst** @ [DISH](https://www.dish.com) _(May 2018 - Jun 2021)_ <br>
 - Managed daily omni-channel queues (**100K+ calls/chats**), daily international staffing (**2K+ FTEs staffing**) across five different LOBs
 - Supported growth of team scope by constantly designing, producing, and maintaining C-Level reporting
 - Promoted business continuity/stability through onboarding and regular development of seven business analysts
-- **_Technologies used:_** SQL Server 2016, SSMS, Microsoft Office, Google Workspace, Teradata SQL Assistant, VBA, CUIC (Cisco Unified Intelligence Center), Google App Script, Teleopti WFM, Python
+- **_Technologies used:_** SQL Server 2016, SQL Server Management Studio (SSMS), Transact SQL (T-SQL), Microsoft Office, Google Workspace, Teradata SQL Assistant, Visual Basic for Applications (VBA), Cisco Unified Intelligence Center (CUIC), Google App Script, Teleopti (Calabrio) WFM, Python
     <br><br>
 
 **CSR → Team Lead → WFM Specialist** @ [DISH](https://www.dish.com) _(Jun 2016 - May 2018)_ <br>
@@ -43,7 +43,7 @@ DISH is an American direct-broadcast satellite television provider and owner of 
 - WFM: Analyzed opportunities in contact center agent efficiency to develop reporting driving **$250K+ in cost-savings**
 - Lead: Ran successful pilot over new hire employee experience (**60+ employees**) that became enterprise standard for onboarding
 - CSR: Consistently exceeded business KPIs regardless of contact type (customer service, technical support, retention)
-- **_Technologies used:_** Microsoft Office, CUIC (Cisco Unified Intelligence Center), VBA, Teleopti WFM
+- **_Technologies used:_** Microsoft Office, Cisco Unified Intelligence Center (CUIC), Visual Basic for Applications (VBA), Teleopti (Calabrio) WFM
   <br><br>
 
 **Game Advisor → Sr. Game Advisor** @ [GameStop](https://www.gamestop.com/) _(Aug 2012 - Apr 2016)_ <br>
@@ -80,5 +80,5 @@ GameStop is an American video game, consumer electronics, and gaming merchandise
 ## 🎤 Public Speaking / 🎓 Giving Back
 
 - **Annual Alumni Visit @ MSU Denver**
-  - CS 1400: Mostly freshmen students studying Computer Architecture I, I deliver a brief talk covering success strategies for college students addressing both common and uncommon situations students may find themselves in
-  - CS 3810: Mostly junior students studying Principles of Database Systems, I deliver a discussion surrounding the practical application of course concepts in relational database systems and SQL (Structured Query Language)
+  - CS 1400 and CS 2050: Towards freshmen/sophomore students studying Computer Architecture I, I deliver a brief talk covering success strategies for college students addressing both common and uncommon situations students may find themselves in
+  - CS 3810: Towards junior students studying Principles of Database Systems, I deliver a discussion surrounding the practical application of course concepts in relational database systems and SQL (Structured Query Language)
