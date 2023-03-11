@@ -79,12 +79,12 @@ GameStop is an American video game, consumer electronics, and gaming merchandise
 
 ## 🎤 Public Speaking / 🎓 Giving Back
 
-- **Annual Alumni Visit @ [MSU Denver](https://www.msudenver.edu/)**<br>
+- **Annual Alumni Visit @ [MSU Denver](https://www.msudenver.edu/)** <br>_(Aug 2020 - Present)_ <br>
 Metropolitan State University of Denver is a public university in Denver, Colorado. MSU Denver is located on the Auraria Campus, along with the University of Colorado Denver and the Community College of Denver, in downtown Denver, adjacent to Speer Boulevard and Colfax Avenue.
   - CS 1400 and CS 2050: Towards freshmen/sophomore students studying Computer Architecture I, I deliver a brief talk covering success strategies for college students addressing both common and uncommon situations students may find themselves in
   - CS 3810: Towards junior students studying Principles of Database Systems, I deliver a discussion surrounding the practical application of course concepts in relational database systems and SQL (Structured Query Language)
 
-- **Memberships/Partnerships Committee @ [DAMA-RMC](https://damarmc.org/)**<br>
+- **Memberships/Partnerships Committee @ [DAMA-RMC](https://damarmc.org/)** <br>_(Mar 2023 - Present)_ <br>
 Data Management Association – Rocky Mountain Chapter (DAMA-RMC) is a not-for-profit, vendor-independent, professional organization dedicated to advancing the concepts and practices of enterprise information and data resource management (IRM/DRM).<br>
 DAMA-RMC’s primary purpose is to promote the understanding, development and practice of managing information and data as key enterprise assets.<br>
   - Membership and partnership strategy and execution including: Developing member recruitment & engagement programs, preparing member statistics/data visualizations, coordinating/maintaining partner/sponsor programs, and securing/engaging corporate/event sponsors.
