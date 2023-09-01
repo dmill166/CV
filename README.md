@@ -1,14 +1,24 @@
-# Dakota M. Miller
+# Dakota M. Hollmann
 
-_Software engineer (specializing in data/databases) and lifelong learner with advanced skills in reporting and SQL query development / optimization; database administration and management; workforce management; training; interdepartmental, intradepartmental, and C-Level communications;  and longstanding history of successful report development covering contact center performance. <br>Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
+_Senior Software engineer (specializing in data/databases) and lifelong learner with advanced skills in reporting and SQL query development / optimization; database administration and management; workforce management; training; interdepartmental, intradepartmental, and C-Level communications;  and longstanding history of successful report development covering contact center performance. <br>Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
 
 <br>
 
-✉️ [Email](mailto:dakotamiller723@gmail.com) / ![](images/linkedin.png) [LinkedIn](https://www.linkedin.com/in/dakota-miller-/) / ![](images/github.png) [GitHub](https://github.com/dmill166)
+✉️ [Email](mailto:dakotamiller723@gmail.com) / ![](images/linkedin.png) [LinkedIn](https://www.linkedin.com/in/dakota-hollmann-/) / ![](images/github.png) [GitHub](https://github.com/dmill166)
 
 ## 👨‍💻 Professional Experience
 
-**ETL Engineer II** @ [Arrow](https://www.arrow.com/) _(May 2022 - Present)_ <br>
+**Lead Data Analyst** @ [DISH](https://www.dish.com) _(Mar 2023 - Present)_ <br>
+DISH is an American direct-broadcast satellite television provider and owner of the over-the-top IPTV service, Sling TV. Additionally, Dish offers a mobile wireless service, Dish Wireless, and owns/operates multiple wireless brands.
+- Tasked with and outperformed expectations to automate data validation for 5G site integration savings **100s of hours**
+- Led team documentation and standardization process, driving continuous improvement and centralization of resources and knowledge. Produced **20+ and counting** standard documents still maintained by the team today
+- Partnered with teams across the enterprise to standardize database access, reporting KPIs, and knowledge sharing surrounding data and data procedures
+- Continuously delivered and assisted team in deliverables for executive (C-Level) audience including data discovery, data analysis,  data visualization tasks, data presentation tasks, and team spokesman tasks
+- **_Technologies used:_** AWS [Redshift, Athena, Snowflake in AWS, EC2, S3], JetBrains DataGrip, Google Workspace, Tableau, 
+SQL Server 2016, SQL Server Management Studio (SSMS), Transact SQL (T-SQL), Microsoft Office
+<br><br>
+
+**ETL Engineer II** @ [Arrow](https://www.arrow.com/) _(May 2022 - Mar 2023)_ <br>
 Arrow Electronics specializes in distribution and value added services relating to electronic components and computer products.
 - Performed ETL development activities independently and as part of a team using Informatica, Oracle Database tuning, Teradata Database tuning, SQL tuning, BTEQ scripting, etc.
 - Provide data analysis through visualization softwares and spreadsheet technologies to support new project definition/design as well as to troubleshoot/resolve issues with existing subject areas.
@@ -23,7 +33,6 @@ Arrow Electronics specializes in distribution and value added services relating 
 <br><br>
 
 **Software Engineer III - Database Development** @ [DISH](https://www.dish.com) _(Jun 2021 - Feb 2022)_ <br>
-DISH is an American direct-broadcast satellite television provider and owner of the over-the-top IPTV service, Sling TV. Additionally, Dish offers a mobile wireless service, Dish Wireless, and intends to add postpaid service as well in the future.
 - Acted as project manager for a business-critical database migration project (TD → AWS) coordinating between enterprise IT and CX teams
   - Performed User Acceptance Testing and validations on **150+ database objects** as part of this initiative
 - Designed, documented, and implemented a scalable automated trimming/archiving solution for active use on **10+ production servers**
@@ -60,8 +69,8 @@ GameStop is an American video game, consumer electronics, and gaming merchandise
 
 ## 👨‍🎓 Education
 
-**Master of Science** in Computer Science<br>
-[Georgia Institute of Technology](https://www.cc.gatech.edu/degree-programs/master-science-computer-science) - Atlanta, Georgia, USA _(2022 - 2027)_
+**Bachelor of Science** in Finance<br>
+[Metropolitan State University of Denver](https://www.msudenver.edu/finance/finance-major-b-s/) - Denver, Colorado, USA _(2023 - 2027)_
 
 **Bachelor of Science** in Computer Science, Minor in Mathematics<br>
 [Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) - Denver, Colorado, USA _(2020 - 2022)_
@@ -84,7 +93,7 @@ Metropolitan State University of Denver is a public university in Denver, Colora
   - CS 1400 and CS 2050: Towards freshmen/sophomore students studying Computer Architecture I, I deliver a brief talk covering success strategies for college students addressing both common and uncommon situations students may find themselves in
   - CS 3810: Towards junior students studying Principles of Database Systems, I deliver a discussion surrounding the practical application of course concepts in relational database systems and SQL (Structured Query Language)
 
-- **Memberships/Partnerships Committee @ [DAMA-RMC](https://damarmc.org/)** <br>_(Mar 2023 - Present)_ <br>
+- **Memberships/Partnerships Committee @ [DAMA-RMC](https://damarmc.org/)** <br>_(Mar 2023 - 2023)_ <br>
 Data Management Association – Rocky Mountain Chapter (DAMA-RMC) is a not-for-profit, vendor-independent, professional organization dedicated to advancing the concepts and practices of enterprise information and data resource management (IRM/DRM).<br>
 DAMA-RMC’s primary purpose is to promote the understanding, development and practice of managing information and data as key enterprise assets.<br>
   - Membership and partnership strategy and execution including: Developing member recruitment & engagement programs, preparing member statistics/data visualizations, coordinating/maintaining partner/sponsor programs, and securing/engaging corporate/event sponsors.
