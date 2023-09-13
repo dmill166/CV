@@ -1,6 +1,6 @@
 # Dakota M. Hollmann
 
-_Senior Software engineer (specializing in data/databases) and lifelong learner with advanced skills in reporting and SQL query development / optimization; database administration and management; workforce management; training; interdepartmental, intradepartmental, and C-Level communications;  and longstanding history of successful report development covering contact center performance. <br>Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
+_Self-motivated senior/lead data engineer with experience in workforce management; training; interdepartmental, intradepartmental, and C-Level communications; reporting and SQL query development / optimization; database administration and management; leadership; project management; strategic thinking; and longstanding history of successful report development covering contact center performance. 5+ years supervisory/management experience. Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
 
 <br>
 
@@ -13,7 +13,7 @@ DISH is an American direct-broadcast satellite television provider and owner of 
 - Tasked with and outperformed expectations to automate data validation for 5G site integration savings **100s of hours**
 - Led team documentation and standardization process, driving continuous improvement and centralization of resources and knowledge. Produced **20+ and counting** standard documents still maintained by the team today
 - Partnered with teams across the enterprise to standardize database access, reporting KPIs, and knowledge sharing surrounding data and data procedures
-- Continuously delivered and assisted team in deliverables for executive (C-Level) audience including data discovery, data analysis,  data visualization tasks, data presentation tasks, and team spokesman tasks
+- Continuously delivered and assisted team in deliverables for executive (C-Level) audience including data discovery, data analysis,  data visualization tasks, and data presentation tasks
 - **_Technologies used:_** AWS [Redshift, Athena, Snowflake in AWS, EC2, S3], JetBrains DataGrip, Google Workspace, Tableau, 
 SQL Server 2016, SQL Server Management Studio (SSMS), Transact SQL (T-SQL), Microsoft Office
 <br><br>
