@@ -8,9 +8,13 @@ _Self-motivated senior/lead data engineer with experience in workforce managemen
 
 ## 👨‍💻 Professional Experience
 
-**Lead Data Analyst** @ [DISH](https://www.dish.com) _(Mar 2023 - Present)_ <br>
+**Senior Data Developer (SWE IV)** @ [Spectrum](https://www.spectrum.com/) _(Dec 2023 - Present)_ <br>
+Spectrum is the trade name of Charter Communications, which is widely used by market consumers and commercial cable television channels, internet, telephone, and wireless service providers.
+- Performed time data ingest and preparation for analysis surrounding aspects of Wi-Fi capacity and performance for **30+M customers**
+
+**5G Senior Data Analyst** @ [DISH](https://www.dish.com) _(Mar 2023 - Dec 2023)_ <br>
 DISH is an American direct-broadcast satellite television provider and owner of the over-the-top IPTV service, Sling TV. Additionally, Dish offers a mobile wireless service, Dish Wireless, and owns/operates multiple wireless brands.
-- Tasked with and outperformed expectations to automate data validation for 5G site integration savings **100s of hours**
+- Tasked with and outperformed expectations to automate data validation for 5G site integration savings **100s of hours** of manual effort
 - Led team documentation and standardization process, driving continuous improvement and centralization of resources and knowledge. Produced **20+ and counting** standard documents still maintained by the team today
 - Partnered with teams across the enterprise to standardize database access, reporting KPIs, and knowledge sharing surrounding data and data procedures
 - Continuously delivered and assisted team in deliverables for executive (C-Level) audience including data discovery, data analysis,  data visualization tasks, and data presentation tasks
@@ -69,8 +73,8 @@ GameStop is an American video game, consumer electronics, and gaming merchandise
 
 ## 👨‍🎓 Education
 
-**Bachelor of Science** in Finance<br>
-[Metropolitan State University of Denver](https://www.msudenver.edu/finance/finance-major-b-s/) - Denver, Colorado, USA _(2023 - 2027)_
+**AWS Certifications** <br>
+[LinkedIn Learning & AWS Builder](https://aws.amazon.com/certification/certified-cloud-practitioner/) - Remote, USA _(Dec 2023 - Present)_
 
 **Bachelor of Science** in Computer Science, Minor in Mathematics<br>
 [Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) - Denver, Colorado, USA _(2020 - 2022)_
