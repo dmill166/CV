@@ -1,6 +1,6 @@
 # Dakota M. Hollmann
 
-_Self-motivated senior/lead data engineer with experience in workforce management; training; interdepartmental, intradepartmental, and C-Level communications; reporting and SQL query development / optimization; database administration and management; leadership; project management; strategic thinking; and longstanding history of successful report development covering contact center performance. 5+ years supervisory/management experience. Experience in multiple computer languages (SQL, Python, Java, TeX, VBA) and able to learn languages on the fly._
+_Results-driven Senior Data Engineer with 7+ years of relevant experience. I demonstrate strong leadership and communication skills, fostering collaboration across departments and with senior leadership/executives. My technical proficiency centers on SQL query development and optimization, database/ETL management, and project leadership. Through strategic reporting, I've consistently improved departmental performance, aggregating to $350K+ in cost savings. I am proficient in multiple programming languages (SQL, Python, VBA, TeX) with a demonstrated ability to learn new languages quickly._
 
 <br>
 
@@ -10,7 +10,12 @@ _Self-motivated senior/lead data engineer with experience in workforce managemen
 
 **Senior Data Developer (SWE IV)** @ [Spectrum](https://www.spectrum.com/) _(Dec 2023 - Present)_ <br>
 Spectrum is the trade name of Charter Communications, which is widely used by market consumers and commercial cable television channels, internet, telephone, and wireless service providers.
-- Performed time data ingest and preparation for analysis surrounding aspects of Wi-Fi capacity and performance for **30+M customers**
+- Performed time data ingest and preparation for analysis surrounding aspects of Wi-Fi capacity and performance for *30+M customers* with *petabytes* of data storage
+- Made major improvements to *14+ codebase repositories* with *70+ commits* across a six month period encompassing *30+ JIRA tickets*
+- Led and performed technical work on *mission-critical* project to migrate technology codebase from EMR 5.x technologies to EMR 6.x technologies as well as converting legacy HQL (Hive Query Language) scripts to equivalent Spark modules. Added and completed additional scope to optimize flow *saving $10K+ & 5 hours daily runtime*
+- Drove initiatives towards additional redundancy and disaster relief planning through automated code functions and thorough documentation. Personally contributed *400+ edits* towards existing and/or new documentation using Microsoft CHALK / SharePoint
+- **_Technologies used:_** AWS [S3, Lambda, Step Functions, EMR, CloudShell, EventBridge], Microsoft Visual Studio Code (VS Code), DBeaver, GitLab Version Control System (VCS), Microsoft (CHALK, OneDrive, Office), Tableau
+<br><br>
 
 **5G Senior Data Analyst** @ [DISH](https://www.dish.com) _(Mar 2023 - Dec 2023)_ <br>
 DISH is an American direct-broadcast satellite television provider and owner of the over-the-top IPTV service, Sling TV. Additionally, Dish offers a mobile wireless service, Dish Wireless, and owns/operates multiple wireless brands.
@@ -76,6 +81,9 @@ GameStop is an American video game, consumer electronics, and gaming merchandise
 **AWS Certifications** <br>
 [LinkedIn Learning & AWS Builder](https://aws.amazon.com/certification/certified-cloud-practitioner/) - Remote, USA _(Dec 2023 - Present)_
 
+**Master's of Business Administration**, concentrating in *Data Analytics*<br>
+[Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) - Fort Myers, Florida, USA _(2024 - 2026)_
+
 **Bachelor of Science** in Computer Science, Minor in Mathematics<br>
 [Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) - Denver, Colorado, USA _(2020 - 2022)_
 
@@ -96,6 +104,7 @@ GameStop is an American video game, consumer electronics, and gaming merchandise
 Metropolitan State University of Denver is a public university in Denver, Colorado. MSU Denver is located on the Auraria Campus, along with the University of Colorado Denver and the Community College of Denver, in downtown Denver, adjacent to Speer Boulevard and Colfax Avenue.
   - CS 1400 and CS 2050: Towards freshmen/sophomore students studying Computer Architecture I, I deliver a brief talk covering success strategies for college students addressing both common and uncommon situations students may find themselves in
   - CS 3810: Towards junior students studying Principles of Database Systems, I deliver a discussion surrounding the practical application of course concepts in relational database systems and SQL (Structured Query Language)
+  - [ACM](https://msu-denver-acm.github.io/): Delivered presentation to students on life after graduation including tips and tricks for approaching technical interviews and rising up from socioeconomic/other obstacles
 
 - **Memberships/Partnerships Committee @ [DAMA-RMC](https://damarmc.org/)** <br>_(Mar 2023 - 2023)_ <br>
 Data Management Association – Rocky Mountain Chapter (DAMA-RMC) is a not-for-profit, vendor-independent, professional organization dedicated to advancing the concepts and practices of enterprise information and data resource management (IRM/DRM).<br>
