@@ -1,113 +1,128 @@
 # Dakota M. Hollmann
 
-_Results-driven Senior Data Engineer with 7+ years of relevant experience. I demonstrate strong leadership and communication skills, fostering collaboration across departments and with senior leadership/executives. My technical proficiency centers on SQL query development and optimization, database/ETL management, and project leadership. Through strategic reporting, I've consistently improved departmental performance, aggregating to $350K+ in cost savings. I am proficient in multiple programming languages (SQL, Python, VBA, TeX) with a demonstrated ability to learn new languages quickly._
+_Results-driven Senior Data Engineer with 8+ years of experience in SQL development, ETL pipeline management, and cloud data solutions. Adept at designing and optimizing large-scale systems while collaborating across business and executive stakeholders. Proven track record of delivering measurable impact, including $350K+ in cost savings through data-driven reporting and workflow optimization. Skilled in SQL, Python, VBA, and TeX, with strong leadership experience guiding teams, standardizing practices, and influencing strategy. Currently pursuing an MBA in Data Analytics (63% complete), positioning me for both senior IC and leadership opportunities in analytics and engineering._
 
 <br>
 
+📍 Denver, CO  
 ✉️ [Email](mailto:dakotamiller723@gmail.com) / ![](images/linkedin.png) [LinkedIn](https://www.linkedin.com/in/dakota-hollmann-/) / ![](images/github.png) [GitHub](https://github.com/dmill166)
+
+---
+
+## 🔗 Table of Contents
+- [Professional Experience](#-professional-experience)
+- [Languages](#-languages)
+- [Education](#-education)
+- [Public Speaking / Giving Back](#-public-speaking--giving-back)
+
+---
 
 ## 👨‍💻 Professional Experience
 
-**Senior Data Developer (SWE IV)** @ [Spectrum](https://www.spectrum.com/) _(Dec 2023 - Present)_ <br>
-Spectrum is the trade name of Charter Communications, which is widely used by market consumers and commercial cable television channels, internet, telephone, and wireless service providers.
-- Performed time data ingest and preparation for analysis surrounding aspects of Wi-Fi capacity and performance for *30+M customers* with *petabytes* of data storage
-- Made major improvements to *14+ codebase repositories* with *70+ commits* across a six month period encompassing *30+ JIRA tickets*
-- Led and performed technical work on *mission-critical* project to migrate technology codebase from EMR 5.x technologies to EMR 6.x technologies as well as converting legacy HQL (Hive Query Language) scripts to equivalent Spark modules. Added and completed additional scope to optimize flow *saving $10K+ & 5 hours daily runtime*
-- Drove initiatives towards additional redundancy and disaster relief planning through automated code functions and thorough documentation. Personally contributed *400+ edits* towards existing and/or new documentation using Microsoft CHALK / SharePoint
-- **_Technologies used:_** AWS [S3, Lambda, Step Functions, EMR, CloudShell, EventBridge], Microsoft Visual Studio Code (VS Code), DBeaver, GitLab Version Control System (VCS), Microsoft (CHALK, OneDrive, Office), Tableau
+**Senior Data Developer (SWE IV)** @ [Spectrum](https://www.spectrum.com/) _(Dec 2023 – Present)_ <br>
+Spectrum (Charter Communications) is a leading provider of cable, internet, and wireless services.  
+- Lead large-scale Wi-Fi data ingestion and analysis for *30M+ customers* across *petabyte-scale* systems  
+- Optimized *14+ repositories* with *70+ commits*, resolving *30+ JIRA tickets* and improving cross-team code quality  
+- Migrated mission-critical workloads from EMR 5.x to EMR 6.x and HiveQL to Spark, cutting runtime by *5 hours daily* and saving *$10K+*  
+- Implemented redundancy and disaster recovery automations, strengthening business continuity  
+- Authored and maintained *400+ documentation updates*, enabling standardized knowledge transfer  
+- **_Technologies used:_** AWS [S3, Lambda, Step Functions, EMR, CloudShell, EventBridge], VS Code, DBeaver, GitLab VCS, Microsoft [CHALK, OneDrive, Office], Tableau  
 <br><br>
 
-**5G Senior Data Analyst** @ [DISH](https://www.dish.com) _(Mar 2023 - Dec 2023)_ <br>
-DISH is an American direct-broadcast satellite television provider and owner of the over-the-top IPTV service, Sling TV. Additionally, Dish offers a mobile wireless service, Dish Wireless, and owns/operates multiple wireless brands.
-- Tasked with and outperformed expectations to automate data validation for 5G site integration savings **100s of hours** of manual effort
-- Led team documentation and standardization process, driving continuous improvement and centralization of resources and knowledge. Produced **20+ and counting** standard documents still maintained by the team today
-- Partnered with teams across the enterprise to standardize database access, reporting KPIs, and knowledge sharing surrounding data and data procedures
-- Continuously delivered and assisted team in deliverables for executive (C-Level) audience including data discovery, data analysis,  data visualization tasks, and data presentation tasks
-- **_Technologies used:_** AWS [Redshift, Athena, Snowflake in AWS, EC2, S3], JetBrains DataGrip, Google Workspace, Tableau, 
-SQL Server 2016, SQL Server Management Studio (SSMS), Transact SQL (T-SQL), Microsoft Office
+**5G Senior Data Analyst** @ [DISH](https://www.dish.com) _(Mar 2023 – Dec 2023)_ <br>
+- Automated 5G site integration validation, saving *100s of manual hours*  
+- Standardized documentation across the enterprise, creating *20+ living resources* still maintained today  
+- Partnered with cross-functional teams to align KPIs, reporting standards, and database access practices  
+- Delivered recurring analyses, visualizations, and presentations for executive (C-Level) audiences  
+- **_Technologies used:_** AWS [Redshift, Athena, Snowflake in AWS, EC2, S3], JetBrains DataGrip, Google Workspace, Tableau, SQL Server 2016, SSMS, T-SQL, Microsoft Office  
 <br><br>
 
-**ETL Engineer II** @ [Arrow](https://www.arrow.com/) _(May 2022 - Mar 2023)_ <br>
-Arrow Electronics specializes in distribution and value added services relating to electronic components and computer products.
-- Performed ETL development activities independently and as part of a team using Informatica, Oracle Database tuning, Teradata Database tuning, SQL tuning, BTEQ scripting, etc.
-- Provide data analysis through visualization softwares and spreadsheet technologies to support new project definition/design as well as to troubleshoot/resolve issues with existing subject areas.
-- Create, update and maintain project documents including (but not limited to): business requirements, functional and non-functional requirements, functional and technical design, data mapping, etc. surrounding assigned work and a high volume, multi-terabyte 24/7 data warehouse application
-- **_Technologies used:_** AppWorx Workload Automation, Informatica PowerCenter, Teradata SQL Assistant, WinSCP, Microsoft Office, Jira, Toggl Track, Microsoft SharePoint, Microsoft SQL Server, PowerBI, Transact SQL (T-SQL)
+**ETL Engineer II** @ [Arrow](https://www.arrow.com/) _(May 2022 – Mar 2023)_ <br>
+- Developed and tuned ETL workflows (Informatica, Oracle, Teradata, SQL) supporting *multi-terabyte 24/7 warehouse*  
+- Produced visual analyses to support new project design and troubleshoot existing subject areas  
+- Authored requirements, data mappings, and technical design docs for enterprise-scale applications  
+- **_Technologies used:_** AppWorx Workload Automation, Informatica PowerCenter, Teradata SQL Assistant, WinSCP, Microsoft Office, Jira, Toggl Track, SharePoint, SQL Server, PowerBI, T-SQL  
 <br><br>
 
-**Product Owner** @ [Arrow](https://www.arrow.com/) _(Feb 2022 - May 2022)_ <br>
-  - Drove cross-team collaboration and prioritization of work for three Agile sub-teams
-  - Presented gap analysis to director-level leadership on current team state of Agile practices, collaboration, and revenue-impacting prioritization standards
-  - **_Technologies used:_** Microsoft Office, Jira, Confluence, Slack, Toggl Track, SharePoint,  DBeaver, Postman
+**Product Owner** @ [Arrow](https://www.arrow.com/) _(Feb 2022 – May 2022)_ <br>
+- Prioritized and managed work across three Agile sub-teams, improving delivery efficiency  
+- Presented gap analyses to director-level leadership on Agile practices and prioritization standards  
+- **_Technologies used:_** Microsoft Office, Jira, Confluence, Slack, Toggl Track, SharePoint, DBeaver, Postman  
 <br><br>
 
-**Software Engineer III - Database Development** @ [DISH](https://www.dish.com) _(Jun 2021 - Feb 2022)_ <br>
-- Acted as project manager for a business-critical database migration project (TD → AWS) coordinating between enterprise IT and CX teams
-  - Performed User Acceptance Testing and validations on **150+ database objects** as part of this initiative
-- Designed, documented, and implemented a scalable automated trimming/archiving solution for active use on **10+ production servers**
-- Proactively initiated future-proofing database systems by researching and training in all aspects of DBMS
-- **_Technologies used:_** SQL Server 2016, SQL Server Management Studio (SSMS), Transact SQL (T-SQL), Microsoft Office, Google Workspace, Teradata SQL Assistant, JetBrains DataGrip, Amazon Web Services (AWS) [Athena, Redshift, S3, Snowflake]
+**Software Engineer III – Database Development** @ [DISH](https://www.dish.com) _(Jun 2021 – Feb 2022)_ <br>
+- Project-managed database migration (Teradata → AWS), coordinating across IT and CX teams  
+- Validated **150+ database objects** through UAT for production readiness  
+- Designed automated trimming/archiving for **10+ production servers**, reducing manual maintenance  
+- Researched and piloted DBMS modernization practices to future-proof systems  
+- **_Technologies used:_** SQL Server 2016, SSMS, T-SQL, Microsoft Office, Google Workspace, Teradata SQL Assistant, DataGrip, AWS [Athena, Redshift, S3, Snowflake]  
 <br><br>
 
-**Biz Ops Analyst I → II → III → Sr. Analyst** @ [DISH](https://www.dish.com) _(May 2018 - Jun 2021)_ <br>
-- Managed daily omni-channel queues (**100K+ calls/chats**), daily international staffing (**2K+ FTEs staffing**) across five different LOBs
-- Supported growth of team scope by constantly designing, producing, and maintaining C-Level reporting
-- Promoted business continuity/stability through onboarding and regular development of seven business analysts
-- **_Technologies used:_** SQL Server 2016, SQL Server Management Studio (SSMS), Transact SQL (T-SQL), Microsoft Office, Google Workspace, Teradata SQL Assistant, Visual Basic for Applications (VBA), Cisco Unified Intelligence Center (CUIC), Google App Script, Teleopti (Calabrio) WFM, Python
-    <br><br>
+**Biz Ops Analyst I → II → III → Sr. Analyst** @ [DISH](https://www.dish.com) _(May 2018 – Jun 2021)_ <br>
+- Managed daily omni-channel queues (**100K+ calls/chats**) and **2K+ FTE staffing** across 5 LOBs  
+- Delivered executive-level reporting to support organizational growth and scalability  
+- Mentored and onboarded *7 business analysts*, building team capacity and continuity  
+- **_Technologies used:_** SQL Server 2016, SSMS, T-SQL, Microsoft Office, Google Workspace, Teradata SQL Assistant, VBA, CUIC, Google App Script, Teleopti (Calabrio) WFM, Python  
+<br><br>
 
-**CSR → Team Lead → WFM Specialist** @ [DISH](https://www.dish.com) _(Jun 2016 - May 2018)_ <br>
-- WFM: Oversaw daily contact center staffing for **300+ employees** considering omni-skilled situations and enterprise KPIs
-- WFM: Analyzed opportunities in contact center agent efficiency to develop reporting driving **$250K+ in cost-savings**
-- Lead: Ran successful pilot over new hire employee experience (**60+ employees**) that became enterprise standard for onboarding
-- CSR: Consistently exceeded business KPIs regardless of contact type (customer service, technical support, retention)
-- **_Technologies used:_** Microsoft Office, Cisco Unified Intelligence Center (CUIC), Visual Basic for Applications (VBA), Teleopti (Calabrio) WFM
-  <br><br>
+**CSR → Team Lead → WFM Specialist** @ [DISH](https://www.dish.com) _(Jun 2016 – May 2018)_ <br>
+- Oversaw daily staffing for **300+ employees**, balancing omni-skilled KPIs  
+- Developed efficiency reports that drove *$250K+ in savings*  
+- Piloted new-hire experience program for **60+ employees**, later scaled enterprise-wide  
+- Exceeded KPIs across customer service, tech support, and retention functions  
+- **_Technologies used:_** Microsoft Office, CUIC, VBA, Teleopti (Calabrio) WFM  
+<br><br>
 
-**Game Advisor → Sr. Game Advisor** @ [GameStop](https://www.gamestop.com/) _(Aug 2012 - Apr 2016)_ <br>
-GameStop is an American video game, consumer electronics, and gaming merchandise retailer. GameStop is the largest video game retailer worldwide.
-- Executed revamped marketing strategies and product knowledge to perform as **#10 store in the nation** in mobile activations/sales
-- Assisted the store management team in supervising all store activities as well as providing friendly and enthusiastic service to customers
-- Regularly accomplished tasks surrounding store merchandising, inventory control, loss prevention, restocking, store cleaning and maintenance
+**Game Advisor → Sr. Game Advisor** @ [GameStop](https://www.gamestop.com/) _(Aug 2012 – Apr 2016)_ <br>
+- Revitalized marketing and product training, ranking store *#10 nationwide* in mobile activations  
+- Supported store management with training, supervision, and customer engagement  
+- Executed merchandising, inventory control, and loss prevention tasks  
+<br><br>
+
+---
 
 ## 💬 Languages
+- **English**: Native  
+- **Spanish**: Beginner (Reading/Writing)  
 
-**English**: Native <br>
-**Spanish**: Beginner Reading/Writing
-<br><br>
+---
 
 ## 👨‍🎓 Education
 
-**AWS Certifications** <br>
-[LinkedIn Learning & AWS Builder](https://aws.amazon.com/certification/certified-cloud-practitioner/) - Remote, USA _(Dec 2023 - Present)_
+**AWS Certifications**  
+[LinkedIn Learning & AWS Builder](https://aws.amazon.com/certification/certified-cloud-practitioner/) – Remote, USA _(Dec 2023 – Present)_
 
-**Master's of Business Administration**, concentrating in *Data Analytics*<br>
-[Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) - Fort Myers, Florida, USA _(2024 - 2026)_
+**Master of Business Administration (MBA)**, Concentration in *Data Analytics*  
+[Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) – Fort Myers, FL _(2024 – 2026)_
 
-**Bachelor of Science** in Computer Science, Minor in Mathematics<br>
-[Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) - Denver, Colorado, USA _(2020 - 2022)_
+**Bachelor of Science (BS)** in Computer Science, Minor in Mathematics  
+[Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) – Denver, CO _(2020 – 2022)_
 
-**Associate of General Studies**<br>
-[Arapahoe Community College](https://www.arapahoe.edu/academics-programs/degrees-certificates/associate-general-studies#:~:text=To%20earn%20an%20AGS%20degree,arts%2C%20humanities%2C%20and%20sciences.) - Littleton, Colorado, USA _(2019 - 2020)_
+**Associate of General Studies**  
+[Arapahoe Community College](https://www.arapahoe.edu/academics-programs/degrees-certificates/associate-general-studies) – Littleton, CO _(2019 – 2020)_
 
-**Career Studies Certificate** in Computer Repair Technician<br>
-[Southwest Virginia Community College](https://catalog.sw.edu/preview_program.php?catoid=5&poid=507&returnto=269) - Cedar Bluff, Virginia, USA _(2018 - 2018)_
+**Career Studies Certificate** in Computer Repair Technician  
+[Southwest Virginia Community College](https://catalog.sw.edu/preview_program.php?catoid=5&poid=507&returnto=269) – Cedar Bluff, VA _(2018)_
 
-**Associate of Arts and Sciences** in Education<br>
-[Southwest Virginia Community College](https://sw.edu/education-associate-of-arts-and-sciences/) - Cedar Bluff, Virginia, USA _(2015 - 2017)_
-<br><br>
-  
+**Associate of Arts and Sciences** in Education  
+[Southwest Virginia Community College](https://sw.edu/education-associate-of-arts-and-sciences/) – Cedar Bluff, VA _(2015 – 2017)_
+
+---
 
 ## 🎤 Public Speaking / 🎓 Giving Back
 
-- **Annual Alumni Visit @ [MSU Denver](https://www.msudenver.edu/)** <br>_(Aug 2020 - Present)_ <br>
-Metropolitan State University of Denver is a public university in Denver, Colorado. MSU Denver is located on the Auraria Campus, along with the University of Colorado Denver and the Community College of Denver, in downtown Denver, adjacent to Speer Boulevard and Colfax Avenue.
-  - CS 1400 and CS 2050: Towards freshmen/sophomore students studying Computer Architecture I, I deliver a brief talk covering success strategies for college students addressing both common and uncommon situations students may find themselves in
-  - CS 3810: Towards junior students studying Principles of Database Systems, I deliver a discussion surrounding the practical application of course concepts in relational database systems and SQL (Structured Query Language)
-  - [ACM](https://msu-denver-acm.github.io/): Delivered presentation to students on life after graduation including tips and tricks for approaching technical interviews and rising up from socioeconomic/other obstacles
+- **Data Science & Machine Learning Advisory Board** @ [MSU Denver](https://www.msudenver.edu/) _(Aug 2025 – Present)_  
+  Advise on curriculum alignment with ABET standards, industry demand, and emerging practices in AI and data.  
+  - Provide applied insights on data engineering, cloud, and machine learning deployment practices  
 
-- **Memberships/Partnerships Committee @ [DAMA-RMC](https://damarmc.org/)** <br>_(Mar 2023 - 2023)_ <br>
-Data Management Association – Rocky Mountain Chapter (DAMA-RMC) is a not-for-profit, vendor-independent, professional organization dedicated to advancing the concepts and practices of enterprise information and data resource management (IRM/DRM).<br>
-DAMA-RMC’s primary purpose is to promote the understanding, development and practice of managing information and data as key enterprise assets.<br>
-  - Membership and partnership strategy and execution including: Developing member recruitment & engagement programs, preparing member statistics/data visualizations, coordinating/maintaining partner/sponsor programs, and securing/engaging corporate/event sponsors.
-  - Specific responsibilities included academic institution engagement to drive awareness of the organization and encourage membership towards student bodies
+- **Computer Science Advisory Board** @ [MSU Denver](https://www.msudenver.edu/) _(Mar 2024 – Present)_  
+  Guide curriculum assessment and improvement to meet workforce and graduate program expectations.  
+  - Contribute perspective as both a recent graduate and industry professional  
+
+- **Memberships/Partnerships Committee** @ [DAMA-RMC](https://damarmc.org/) _(Mar 2023 – 2023)_  
+  Advanced strategies for membership recruitment, sponsor engagement, and academic outreach.  
+  - Secured partnerships, developed engagement programs, and delivered membership analytics  
+
+- **Annual Alumni Visit** @ [MSU Denver](https://www.msudenver.edu/) _(Aug 2020 – Present)_  
+  Mentor and present to undergraduates in Computer Architecture, Database Systems, and ACM student events.  
+  - Deliver sessions on success strategies, real-world applications of SQL/DB, and career readiness  
