@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile.jpg" alt="Dakota Hollmann" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #0077B5;"/>
+  <img src="images/profile.jpeg" alt="Dakota Hollmann" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #0077B5;"/>
 </p>
 
 <p align="center">
