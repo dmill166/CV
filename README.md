@@ -168,7 +168,6 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 <details>
 <summary><strong><em>🔻 Click to view Full Speaking & Engagement Timeline</em></strong></summary>
-<br>
 
 ### 2026
 
@@ -190,10 +189,7 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
   *Partnered with Charter Spectrum's women's resource group to review **"Empowering Colorado,"** an LLM/RAG-based sustainability data platform. Advised students and faculty on data democracy, scalability, and the technical roadmap for creating a centralized repository of credible climate data.*
 * **May 28** — **Organizer**, "Learning By Design" Workshop (Charter Spectrum Partnership)  
 * **Apr 18** — **Featured Alumnus**, Spring 2024 CS Department Newsletter  
-* **Apr 10** — **Guest Speaker**, CS 3810 (Principles of Database Systems) — *Career Navigation & Architecture*  
-* **Feb 03** — **Guest Speaker**, CS 4360 (Senior Experience) — *"Life After Graduation"*  
-
-### 2024
+* **Apr 10** — **Guest Speaker**, CS 3810 (Principles of Database Systems) — *Career Navigation & Architecture* * **Feb 03** — **Guest Speaker**, CS 4360 (Senior Experience) — *"Life After Graduation"* ### 2024
 
 * **Aug 21** — **Volunteer**, Computer Science Welcome Day  
 * **Apr 29** — **Presenter**, MSU Denver ACM Chapter [(View Slides)](https://docs.google.com/presentation/d/1ShD4CKBG_irWy2S_FXP6XZz-FTjg6TYlSuR0SKq81Ok/edit?usp=sharing)  
