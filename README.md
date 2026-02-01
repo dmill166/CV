@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile-placeholder.png" alt="Profile photo" width="140" height="140" style="border-radius: 50%;"/>
+  <img src="images/profile.jpeg" alt="Dakota Hollmann" width="150" height="150" style="border-radius: 60%; object-fit: cover; border: 3px solid #0077B5;"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 # Dakota Hollmann  
 
 **Lead Data Engineer & Architect | Data Strategy & Cost Optimization ($350K+ Saved)** 📍 Denver Metropolitan Area  
-![](images/linkedin.png) [LinkedIn](https://www.linkedin.com/in/dakota-hollmann-/) / ![](images/github.png) [GitHub](https://github.com/dmill166)
+🔗 [LinkedIn](https://www.linkedin.com/in/dakota-hollmann-/) / 💻 [GitHub](https://github.com/dmill166)
 
 ---
 
@@ -44,26 +44,35 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 ---
 
 ## 🛠️ Core Competencies & Tech Stack
-
 **Languages:** Python, SQL, Bash  
 **Cloud & Big Data:** AWS (EMR, Lambda, Glue, Athena, S3, Step Functions), Spark/PySpark, Snowflake, Redshift  
 **Architecture:** Distributed Systems, ETL/ELT Design, Serverless Ingestion, Cost Optimization (FinOps)  
 **DevOps & Tooling:** Git, GitHub Actions, Terraform, Airflow, JIRA APIs, Docker  
 **Analytics:** Data Quality Frameworks, Tableau, Alteryx, PowerBI  
 
-| ![Python](images/python.png) | ![SQL](images/sql.png) | ![Spark](images/spark.png) | ![AWS](images/aws.png) |
-|---|---|---|---|
-| ![Airflow](images/airflow.png) | ![Git](images/git.png) | ![Terraform](images/terraform.png) | ![Snowflake](images/snowflake.png) |
-| ![Databricks](images/databricks.png) | ![Jira](images/jira.png) | ![Alteryx](images/alteryx.png) | ![Tableau](images/tableau.png) |
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alteryx-0081C6?style=for-the-badge&logo=alteryx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
 ---
 
 ## 👨‍💻 Professional Experience
 
 ### **Senior Data Engineer (Contract)** @ [Spectrum](https://www.spectrum.com/)
-
 *(Dec 2023 – Present)*
-
 * **Massive-Scale Telemetry:** Engineered high-throughput ingestion and analysis pipelines processing **43B+ rows per hour (~6TB/day)** for a 30M+ customer enterprise.
 * **API Ingestion Framework:** Developed a serverless ingestion engine using AWS Lambda, Python, and Athena to poll JIRA APIs and automate partition-loading into S3 via parquet.
 * **Performance Optimization:** Migrated legacy HiveQL workloads to Spark on EMR 6.x, reducing daily runtimes by 5 hours and securing **$10K** in annual compute cost savings.
@@ -72,18 +81,17 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 <details>
 <summary><strong><em>🔻 Click to view Technical Environment & Additional Context</em></strong></summary>
-<br>
-* <strong>Technologies:</strong> AWS [S3, Lambda, Step Functions, EMR, CloudShell, EventBridge], Python, PySpark, VS Code, GitLab.
-* Re-architected a legacy Bash-based runtime metric collector to remove unnecessary compute overhead, saving 45–90 seconds per job across 600+ workflows.
-* Partnered with networking and security teams to establish cross-VPC access patterns for data retrieval systems.
+
+* **Technologies:** AWS [S3, Lambda, Step Functions, EMR, CloudShell, EventBridge], Python, PySpark, VS Code, GitLab.
+* **Impact Detail:** Re-architected a legacy Bash-based runtime metric collector to remove unnecessary compute overhead, saving 45–90 seconds per job across 600+ workflows.
+* **Security:** Partnered with networking and security teams to establish cross-VPC access patterns for data retrieval systems.
+
 </details>
 
 ---
 
 ### **5G Senior Data Analyst** @ [DISH Wireless](https://www.dish.com)
-
 *(Mar 2023 – Dec 2023)*
-
 * **FCC Compliance Automation:** Engineered an automated site-validation framework using Alteryx to support the June 14, 2023 FCC 5G deployment commitments.
 * **Operational Throughput:** Increased audit capacity from 4 sites/day to unlimited automated audits, reducing site review time from ~2 hours to **5 minutes (90%+ reduction)**.
 * **Technical Leadership:** Served as Technical Lead for an organization of 14 Analysts and Engineers, including the direct management of an India-based data resource.
@@ -91,35 +99,32 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 <details>
 <summary><strong><em>🔻 Click to view Technical Environment & Additional Context</em></strong></summary>
-<br>
-* <strong>Technologies:</strong> Alteryx, Snowflake, AWS Redshift, Tableau, SQL Server, Python.
-* Owned daily multi-dataset validations for 5G site integration during high-pressure launch windows.
-* Designed operational KPIs and reporting models improving SLA transparency across APAC, EMEA, and Americas regions.
+
+* **Technologies:** Alteryx, Snowflake, AWS Redshift, Tableau, SQL Server, Python.
+* **Process:** Owned daily multi-dataset validations for 5G site integration during high-pressure launch windows.
+* **KPI Design:** Designed operational KPIs and reporting models improving SLA transparency across APAC, EMEA, and Americas regions.
+
 </details>
 
 ---
 
 <details>
-<summary><strong><h3>📂 Previous Experience (Arrow Electronics, DISH Network, Early Career)</h3></strong></summary>
+<summary><strong>📂 Previous Experience (Arrow Electronics, DISH Network, Early Career)</strong></summary>
 <br>
 
-**ETL Engineer II** @ [Arrow Electronics](https://www.arrow.com/) *(May 2022 – Mar 2023)*  
-
+**ETL Engineer II** @ [Arrow Electronics](https://www.arrow.com/) _(May 2022 – Mar 2023)_  
 * **Warehouse Optimization:** Developed and tuned complex ETL workflows (Informatica, Oracle, Teradata) supporting a multi-terabyte, 24/7 global supply chain warehouse.
 * **Storage Efficiency:** Engineered a Hadoop-to-SQL pipeline that achieved a **90% reduction** in storage footprint through advanced normalization.
 * **Global SLA Performance:** Constructed rolling performance dashboards to track operational SLA metrics with 93–96% accuracy across three continents.
 
-**Technical Product Owner** @ [Arrow Electronics](https://www.arrow.com/) *(Feb 2022 – May 2022)*  
-
+**Technical Product Owner** @ [Arrow Electronics](https://www.arrow.com/) _(Feb 2022 – May 2022)_  
 * **Agile Delivery:** Prioritized backlogs and managed delivery across 3 Agile sub-teams, bridging communication between 10+ business stakeholders and 20+ technical members.
 
-**Software Engineer III (Database Development)** @ [DISH Network](https://www.dish.com) *(Jun 2021 – Feb 2022)*  
-
+**Software Engineer III (Database Development)** @ [DISH Network](https://www.dish.com) _(Jun 2021 – Feb 2022)_  
 * **Enterprise Cloud Migration:** Orchestrated the technical validation of **150+ database objects** during a large-scale Teradata to AWS (Redshift/Snowflake) migration.
 * **DevOps Leadership:** Spearheaded the Git adoption and implementation project for a team of 8 Data Engineers.
 
-**Senior Business Operations Analyst** @ [DISH Network](https://www.dish.com) *(Oct 2020 – Jun 2021)*  
-
+**Senior Business Operations Analyst** @ [DISH Network](https://www.dish.com) _(Oct 2020 – Jun 2021)_  
 * **High-Volume Operations:** Managed complex queue logic and staffing models for 100K+ daily customer contacts and 2,000+ FTEs.
 * **Financial Impact:** Identified and delivered **$250K+** in annual cost savings through efficiency reporting.
 
@@ -159,23 +164,43 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 <summary><strong><em>🔻 Click to view Full Speaking & Engagement Timeline</em></strong></summary>
 <br>
 
+### 2026
+
+* **Feb 09** — **Guest Lecturer**, CS 4360 (Senior Experience)
+  *Scheduled engagement to discuss enterprise data architecture and career navigation with senior undergraduates.*
+
 ### 2025
 
-* **Dec 05** — Industry participant, CACED Senior Project Day & Networking Lunch  
-* **Nov 20** — Invited speaker for CS 3210 & CS 3700 (interviews, career navigation)  
-* **Aug 14** — Invited to inaugural DSML Advisory Board  
-* **May 28** — Organizer for Prof. Rajan’s “Learning By Design” workshop to Charter Spectrum  
+* **Dec 05** — **Industry Participant**, CACED Senior Project Day & Networking Lunch
+* **Nov 20** — **Guest Speaker**, CS 3210 (Principles of Programming Languages) & CS 3700 (Computer Networks)
+  *Shared industry insights on job search strategies, technical interviewing, and navigating life after graduation.*
+* **Nov 03** — **Guest Speaker**, CS 1030 (Computer Science Principles)
+  *Virtual presentation on "How to Get a Job in CS," covering interviewing techniques, networking strategies, and essential developer tools.*
+* **Oct 23** — **Industry Panelist**, CS 1050 (Computer Science 1)
+  *Moderated Q&A for freshmen covering core competency building (problem-solving, collaboration), internship navigation, and early career advice.*
+* **Aug 14** — **Invited Member**, Inaugural DSML Advisory Board Meeting
+  *Selected to serve on the founding board to shape the Data Science & Machine Learning curriculum strategy.*
+* **Jul 12** — **Industry Mentor & Strategy Lead**, Sustainability Hub Hackathon
+  *Partnered with Charter Spectrum's women's resource group to review **"Empowering Colorado,"** an LLM/RAG-based sustainability data platform. Advised students and faculty on data democracy, scalability, and the technical roadmap for creating a centralized repository of credible climate data.*
+* **May 28** — **Organizer**, "Learning By Design" Workshop (Charter Spectrum Partnership)
+* **Apr 18** — **Featured Alumnus**, Spring 2024 CS Department Newsletter
+* **Apr 10** — **Guest Speaker**, CS 3810 (Principles of Database Systems) — *Career Navigation & Architecture*
+* **Feb 03** — **Guest Speaker**, CS 4360 (Senior Experience) — *"Life After Graduation"*
 
 ### 2024
 
-* **Apr 18** — Featured in Spring 2024 CS Department Newsletter  
-* **Apr 10** — Speaker for CS 3810 (Career Navigation)  
-* **Feb 03** — Speaker for CS 4360 (“Life After Graduation”)  
+* **Aug 21** — **Volunteer**, Computer Science Welcome Day
+* **Apr 29** — **Presenter**, MSU Denver ACM Chapter [(View Slides)](https://docs.google.com/presentation/d/1ShD4CKBG_irWy2S_FXP6XZz-FTjg6TYlSuR0SKq81Ok/edit?usp=sharing)
+* **Mar 29** — **Participant**, CS Advisory Board Meeting
 
-### 2020-2022
+### 2022
 
-* **Feb 17, 2022** — Speaker for CS 3810 (Databases & Analytics)  
-* **Aug 18, 2020** — Speaker for Freshman Success Seminar  
+* **Feb 17** — **Guest Speaker**, CS 3810 (Principles of Database Systems) [(View Slides)](https://docs.google.com/presentation/d/1XLGgOu0HLEjwfn96tfc6Zrc3Z1-kV2kJT_vWEWtuFso/edit?usp=sharing)
+* **May 13** — **Graduate**, MSU Denver (Bachelor of Science)
+
+### 2020
+
+* **Aug 18** — **Guest Speaker**, CS 1030 (Computer Science Principles) [(View Slides)](https://docs.google.com/presentation/d/1smIEWqqz8zEXxZlX5BTxynWKX47LINaJps0dzOaeWOM/edit?usp=sharing)
 
 </details>
 
@@ -183,6 +208,6 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 ## 📄 Download Resume
 
-[Download PDF](DHollmann%20Resume.pdf)
+[Download PDF](DHollmann_Resume.pdf)
 
 ---
