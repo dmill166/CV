@@ -172,41 +172,41 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 ### 2026
 
-* **Feb 09** — **Guest Lecturer**, CS 4360 (Senior Experience)
+* **Feb 09** — **Guest Lecturer**, CS 4360 (Senior Experience)  
   *Scheduled engagement to discuss enterprise data architecture and career navigation with senior undergraduates.*
 
 ### 2025
 
-* **Dec 05** — **Industry Participant**, CACED Senior Project Day & Networking Lunch
-* **Nov 20** — **Guest Speaker**, CS 3210 (Principles of Programming Languages) & CS 3700 (Computer Networks)
+* **Dec 05** — **Industry Participant**, CACED Senior Project Day & Networking Lunch  
+* **Nov 20** — **Guest Speaker**, CS 3210 (Principles of Programming Languages) & CS 3700 (Computer Networks)  
   *Shared industry insights on job search strategies, technical interviewing, and navigating life after graduation.*
-* **Nov 03** — **Guest Speaker**, CS 1030 (Computer Science Principles)
+* **Nov 03** — **Guest Speaker**, CS 1030 (Computer Science Principles)  
   *Virtual presentation on "How to Get a Job in CS," covering interviewing techniques, networking strategies, and essential developer tools.*
-* **Oct 23** — **Industry Panelist**, CS 1050 (Computer Science 1)
+* **Oct 23** — **Industry Panelist**, CS 1050 (Computer Science 1)  
   *Moderated Q&A for freshmen covering core competency building (problem-solving, collaboration), internship navigation, and early career advice.*
-* **Aug 14** — **Invited Member**, Inaugural DSML Advisory Board Meeting
+* **Aug 14** — **Invited Member**, Inaugural DSML Advisory Board Meeting  
   *Selected to serve on the founding board to shape the Data Science & Machine Learning curriculum strategy.*
-* **Jul 12** — **Industry Mentor & Strategy Lead**, Sustainability Hub Hackathon
+* **Jul 12** — **Industry Mentor & Strategy Lead**, Sustainability Hub Hackathon  
   *Partnered with Charter Spectrum's women's resource group to review **"Empowering Colorado,"** an LLM/RAG-based sustainability data platform. Advised students and faculty on data democracy, scalability, and the technical roadmap for creating a centralized repository of credible climate data.*
-* **May 28** — **Organizer**, "Learning By Design" Workshop (Charter Spectrum Partnership)
-* **Apr 18** — **Featured Alumnus**, Spring 2024 CS Department Newsletter
-* **Apr 10** — **Guest Speaker**, CS 3810 (Principles of Database Systems) — *Career Navigation & Architecture*
-* **Feb 03** — **Guest Speaker**, CS 4360 (Senior Experience) — *"Life After Graduation"*
+* **May 28** — **Organizer**, "Learning By Design" Workshop (Charter Spectrum Partnership)  
+* **Apr 18** — **Featured Alumnus**, Spring 2024 CS Department Newsletter  
+* **Apr 10** — **Guest Speaker**, CS 3810 (Principles of Database Systems) — *Career Navigation & Architecture*  
+* **Feb 03** — **Guest Speaker**, CS 4360 (Senior Experience) — *"Life After Graduation"*  
 
 ### 2024
 
-* **Aug 21** — **Volunteer**, Computer Science Welcome Day
-* **Apr 29** — **Presenter**, MSU Denver ACM Chapter [(View Slides)](https://docs.google.com/presentation/d/1ShD4CKBG_irWy2S_FXP6XZz-FTjg6TYlSuR0SKq81Ok/edit?usp=sharing)
-* **Mar 29** — **Participant**, CS Advisory Board Meeting
+* **Aug 21** — **Volunteer**, Computer Science Welcome Day  
+* **Apr 29** — **Presenter**, MSU Denver ACM Chapter [(View Slides)](https://docs.google.com/presentation/d/1ShD4CKBG_irWy2S_FXP6XZz-FTjg6TYlSuR0SKq81Ok/edit?usp=sharing)  
+* **Mar 29** — **Participant**, CS Advisory Board Meeting  
 
 ### 2022
 
-* **Feb 17** — **Guest Speaker**, CS 3810 (Principles of Database Systems) [(View Slides)](https://docs.google.com/presentation/d/1XLGgOu0HLEjwfn96tfc6Zrc3Z1-kV2kJT_vWEWtuFso/edit?usp=sharing)
-* **May 13** — **Graduate**, MSU Denver (Bachelor of Science)
+* **Feb 17** — **Guest Speaker**, CS 3810 (Principles of Database Systems) [(View Slides)](https://docs.google.com/presentation/d/1XLGgOu0HLEjwfn96tfc6Zrc3Z1-kV2kJT_vWEWtuFso/edit?usp=sharing)  
+* **May 13** — **Graduate**, MSU Denver (Bachelor of Science)  
 
 ### 2020
 
-* **Aug 18** — **Guest Speaker**, CS 1030 (Computer Science Principles) [(View Slides)](https://docs.google.com/presentation/d/1smIEWqqz8zEXxZlX5BTxynWKX47LINaJps0dzOaeWOM/edit?usp=sharing)
+* **Aug 18** — **Guest Speaker**, CS 1030 (Computer Science Principles) [(View Slides)](https://docs.google.com/presentation/d/1smIEWqqz8zEXxZlX5BTxynWKX47LINaJps0dzOaeWOM/edit?usp=sharing)  
 
 </details>
 
