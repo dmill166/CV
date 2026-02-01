@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile.jpeg" alt="Dakota Hollmann" width="150" height="150" style="border-radius: 60%; object-fit: cover; border: 3px solid #0077B5;"/>
+  <img src="images/profile.jpg" alt="Dakota Hollmann" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #0077B5;"/>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 * **Engineering Standards:** Advanced team maturity by authoring a modular utility framework utilizing inheritance and unit-testing (**141+ tests**) to ensure production reliability.
 * **Technical Mentorship:** Led the technical onboarding and professional development of 6 Data Engineers, conducting code reviews and guiding best practices for AWS and Git-based workflows.
 
-<details>
+<details markdown="1">
 <summary><strong><em>🔻 Click to view Technical Environment & Additional Context</em></strong></summary>
 
 * **Technologies:** AWS [S3, Lambda, Step Functions, EMR, CloudShell, EventBridge], Python, PySpark, VS Code, GitLab.
@@ -97,7 +97,7 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 * **Technical Leadership:** Served as Technical Lead for an organization of 14 Analysts and Engineers, including the direct management of an India-based data resource.
 * **Data Enablement:** Architected the data-polling layer and sourced service accounts for executive 5G rollout dashboards using Redshift, Athena, and Snowflake.
 
-<details>
+<details markdown="1">
 <summary><strong><em>🔻 Click to view Technical Environment & Additional Context</em></strong></summary>
 
 * **Technologies:** Alteryx, Snowflake, AWS Redshift, Tableau, SQL Server, Python.
@@ -108,7 +108,7 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>📂 Previous Experience (Arrow Electronics, DISH Network, Early Career)</strong></summary>
 <br>
 
@@ -140,16 +140,12 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 ## 🎓 Education
 
-**Master of Business Administration (MBA)**, Concentration in *Data Analytics*  
-[Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) – Fort Myers, FL *(Expected 2026)*  
-*Focusing on the intersection of advanced data architecture, business profitability, and cost-optimization strategy.*
+**Master of Business Administration (MBA)**, Concentration in *Data Analytics* [Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) – Fort Myers, FL *(Expected 2026)* *Focusing on the intersection of advanced data architecture, business profitability, and cost-optimization strategy.*
 
 **Bachelor of Science (BS)** in Computer Science, Minor in Mathematics  
-[Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) – Denver, CO *(2022)*  
-*Currently serving as an Alumni Member for the Computer Science and DSML Advisory Boards.*
+[Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) – Denver, CO *(2022)* *Currently serving as an Alumni Member for the Computer Science and DSML Advisory Boards.*
 
-**Associate of General Studies**  
-[Arapahoe Community College](https://www.arapahoe.edu/) – Littleton, CO *(2020)*
+**Associate of General Studies** [Arapahoe Community College](https://www.arapahoe.edu/) – Littleton, CO *(2020)*
 
 **Career Studies Certificate** in Computer Repair Technician  
 [Southwest Virginia Community College](https://sw.edu/) – Cedar Bluff, VA *(2018)*
@@ -161,12 +157,10 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 ## 🎤 Public Speaking & Leadership
 
-**Computer Science & DSML Advisory Board Member** @ [MSU Denver](https://www.msudenver.edu/) *(May 2020 – Present)*  
-
-* **Governance:** Currently serving as an Alumni Member for the **Computer Science** and **Data Science & Machine Learning (DSML)** Advisory Boards, guiding curriculum alignment with evolving industry standards, workforce readiness, and ABET accreditation requirements.
+**Computer Science & DSML Advisory Board Member** @ [MSU Denver](https://www.msudenver.edu/) *(May 2020 – Present)* * **Governance:** Currently serving as an Alumni Member for the **Computer Science** and **Data Science & Machine Learning (DSML)** Advisory Boards, guiding curriculum alignment with evolving industry standards, workforce readiness, and ABET accreditation requirements.
 * **Mentorship & Speaking:** Regularly invited guest speaker and mentor; recently presented *"Nodes, Edges, and Elevator Pitches: Networking Like a Computer Scientist"* to 40+ early-career technologists.
 
-<details>
+<details markdown="1">
 <summary><strong><em>🔻 Click to view Full Speaking & Engagement Timeline</em></strong></summary>
 
 ### 2026
