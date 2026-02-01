@@ -9,13 +9,13 @@
   <a href="https://github.com/dmill166">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="DHollmann%20Resume.pdf">
+  <a href="DHollmann_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
   </a>
   <a href="#-professional-experience">
     <img src="https://img.shields.io/badge/Experience-4A90E2?style=for-the-badge"/>
   </a>
-  <a href="#-public-speaking---giving-back">
+  <a href="#-public-speaking--leadership">
     <img src="https://img.shields.io/badge/Speaking-8E44AD?style=for-the-badge"/>
   </a>
 </p>
@@ -113,18 +113,22 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 <br>
 
 **ETL Engineer II** @ [Arrow Electronics](https://www.arrow.com/) _(May 2022 – Mar 2023)_  
+
 * **Warehouse Optimization:** Developed and tuned complex ETL workflows (Informatica, Oracle, Teradata) supporting a multi-terabyte, 24/7 global supply chain warehouse.
 * **Storage Efficiency:** Engineered a Hadoop-to-SQL pipeline that achieved a **90% reduction** in storage footprint through advanced normalization.
 * **Global SLA Performance:** Constructed rolling performance dashboards to track operational SLA metrics with 93–96% accuracy across three continents.
 
 **Technical Product Owner** @ [Arrow Electronics](https://www.arrow.com/) _(Feb 2022 – May 2022)_  
+
 * **Agile Delivery:** Prioritized backlogs and managed delivery across 3 Agile sub-teams, bridging communication between 10+ business stakeholders and 20+ technical members.
 
 **Software Engineer III (Database Development)** @ [DISH Network](https://www.dish.com) _(Jun 2021 – Feb 2022)_  
+
 * **Enterprise Cloud Migration:** Orchestrated the technical validation of **150+ database objects** during a large-scale Teradata to AWS (Redshift/Snowflake) migration.
 * **DevOps Leadership:** Spearheaded the Git adoption and implementation project for a team of 8 Data Engineers.
 
 **Senior Business Operations Analyst** @ [DISH Network](https://www.dish.com) _(Oct 2020 – Jun 2021)_  
+
 * **High-Volume Operations:** Managed complex queue logic and staffing models for 100K+ daily customer contacts and 2,000+ FTEs.
 * **Financial Impact:** Identified and delivered **$250K+** in annual cost savings through efficiency reporting.
 
@@ -136,14 +140,16 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 ## 🎓 Education
 
-**Master of Business Administration (MBA)**, Concentration in *Data Analytics* [Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) – Fort Myers, FL *(Expected 2026)*  
+**Master of Business Administration (MBA)**, Concentration in *Data Analytics*  
+[Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) – Fort Myers, FL *(Expected 2026)*  
 *Focusing on the intersection of advanced data architecture, business profitability, and cost-optimization strategy.*
 
 **Bachelor of Science (BS)** in Computer Science, Minor in Mathematics  
 [Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) – Denver, CO *(2022)*  
 *Currently serving as an Alumni Member for the Computer Science and DSML Advisory Boards.*
 
-**Associate of General Studies** [Arapahoe Community College](https://www.arapahoe.edu/) – Littleton, CO *(2020)*
+**Associate of General Studies**  
+[Arapahoe Community College](https://www.arapahoe.edu/) – Littleton, CO *(2020)*
 
 **Career Studies Certificate** in Computer Repair Technician  
 [Southwest Virginia Community College](https://sw.edu/) – Cedar Bluff, VA *(2018)*
@@ -157,7 +163,7 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 **Computer Science & DSML Advisory Board Member** @ [MSU Denver](https://www.msudenver.edu/) *(May 2020 – Present)*  
 
-* **Governance:** Currently serving as an Alumni Member for the Computer Science and DSML Advisory Boards, guiding curriculum alignment with enterprise data engineering standards and ABET accreditation.
+* **Governance:** Currently serving as an Alumni Member for the **Computer Science** and **Data Science & Machine Learning (DSML)** Advisory Boards, guiding curriculum alignment with evolving industry standards, workforce readiness, and ABET accreditation requirements.
 * **Mentorship & Speaking:** Regularly invited guest speaker and mentor; recently presented *"Nodes, Edges, and Elevator Pitches: Networking Like a Computer Scientist"* to 40+ early-career technologists.
 
 <details>
