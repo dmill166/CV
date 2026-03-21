@@ -31,9 +31,9 @@
 
 ## 🧭 Executive Summary
 
-I am a **Senior Data Engineer & Architect** who thrives at the intersection of complex technical systems and strategic business goals. Currently, I manage telemetry pipelines at a massive scale at **Charter Spectrum**—processing over **43B+ rows per hour (~6TB/day)**—while driving down compute costs and establishing engineering standards that empower my team.
+I am operating as a Lead Data Engineer & Architect who thrives at the intersection of complex technical systems and strategic business goals. Currently, I direct telemetry architecture at a massive scale at Charter Spectrum—processing an exponentially growing 165B+ rows per hour—while augmenting auto-scaling frameworks with rigorous FinOps tuning to drive down compute costs and establish engineering standards that empower my team.
 
-With over **8 years of experience** across the data lifecycle and an **MBA in Data Analytics** in progress, I focus on being a "Force Multiplier." Whether it’s migrating legacy Teradata systems to AWS or building custom API ingestion frameworks in Python, I ensure that every technical decision is an investment in the company’s long-term profitability.
+With over 8 years of experience across the data lifecycle and an MBA in Data Analytics in progress, I focus on being a "Force Multiplier." Whether it’s migrating legacy Teradata systems to AWS or building custom API ingestion frameworks in Python, I ensure that every technical decision is an investment in the company’s long-term profitability.
 
 **Core Impact:**
 
@@ -73,7 +73,7 @@ With over **8 years of experience** across the data lifecycle and an **MBA in Da
 
 ### **Senior Data Engineer (Contract)** @ [Spectrum](https://www.spectrum.com/)
 *(Dec 2023 – Present)*
-* **Massive-Scale Telemetry:** Engineered high-throughput ingestion and analysis pipelines processing **43B+ rows per hour (~6TB/day)** for a 30M+ customer enterprise.
+* **Massive-Scale Telemetry & FinOps:** Direct auto-scaling ingestion pipelines processing an exponential **165B+ rows/hr**, driving proactive compute tuning to sustainably support 30M+ enterprise customers.
 * **API Ingestion Framework:** Developed a serverless ingestion engine using AWS Lambda, Python, and Athena to poll JIRA APIs and automate partition-loading into S3 via parquet.
 * **Performance Optimization:** Migrated legacy HiveQL workloads to Spark on EMR 6.x, reducing daily runtimes by 5 hours and securing **$10K** in annual compute cost savings.
 * **Engineering Standards:** Advanced team maturity by authoring a modular utility framework utilizing inheritance and unit-testing (**141+ tests**) to ensure production reliability.
