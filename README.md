@@ -165,6 +165,11 @@ With over 8 years of experience across the data lifecycle and an MBA in Data Ana
 
 ### 2026
 
+* **Apr 10** — **Participant**, CS Advisory Board Meeting  
+* **Apr 09** — **Guest Lecturer**, CS 3120 (Machine Learning)  
+  *Conducted a live technical demonstration of the Medallion Data Architecture, teaching students to navigate API integrations, data grain mismatches, and the detection of statistical confounders (Simpson's Paradox) before model training.*
+* **Apr 09** — **Industry Panelist**, CS 1050 (Computer Science 1)  
+  *Shared career journey insights with freshmen, focusing on the transition from business operations to Senior Data Engineer and the value of a "force multiplier" mindset.*
 * **Feb 09** — **Guest Lecturer**, CS 4360 (Senior Experience)  
   *Scheduled engagement to discuss enterprise data architecture and career navigation with senior undergraduates.*
 
