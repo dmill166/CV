@@ -166,7 +166,7 @@ With over 8 years of experience across the data lifecycle and an MBA in Data Ana
 ### 2026
 
 * **Apr 10** — **Participant**, CS Advisory Board Meeting  
-* **Apr 09** — **Guest Lecturer**, CS 3120 (Machine Learning)  
+* **Apr 09** — **Guest Lecturer**, CS 3120 (Machine Learning)  [(View Presentation Code/Repository)](https://github.com/dmill166/datamining-learning/tree/main/projects/2026-ingestion-engine)
   *Conducted a live technical demonstration of the Medallion Data Architecture, teaching students to navigate API integrations, data grain mismatches, and the detection of statistical confounders (Simpson's Paradox) before model training.*
 * **Apr 09** — **Industry Panelist**, CS 1050 (Computer Science 1)  
   *Shared career journey insights with freshmen, focusing on the transition from business operations to Senior Data Engineer and the value of a "force multiplier" mindset.*
@@ -188,7 +188,10 @@ With over 8 years of experience across the data lifecycle and an MBA in Data Ana
   *Partnered with Charter Spectrum's women's resource group to review **"Empowering Colorado,"** an LLM/RAG-based sustainability data platform. Advised students and faculty on data democracy, scalability, and the technical roadmap for creating a centralized repository of credible climate data.*
 * **May 28** — **Organizer**, "Learning By Design" Workshop (Charter Spectrum Partnership)  
 * **Apr 18** — **Featured Alumnus**, Spring 2024 CS Department Newsletter  
-* **Apr 10** — **Guest Speaker**, CS 3810 (Principles of Database Systems) — *Career Navigation & Architecture* * **Feb 03** — **Guest Speaker**, CS 4360 (Senior Experience) — *"Life After Graduation"* ### 2024
+* **Apr 10** — **Guest Speaker**, CS 3810 (Principles of Database Systems) — *Career Navigation & Architecture* 
+* **Feb 03** — **Guest Speaker**, CS 4360 (Senior Experience) — *"Life After Graduation"* 
+
+### 2024
 
 * **Aug 21** — **Volunteer**, Computer Science Welcome Day  
 * **Apr 29** — **Presenter**, MSU Denver ACM Chapter [(View Slides)](https://docs.google.com/presentation/d/1ShD4CKBG_irWy2S_FXP6XZz-FTjg6TYlSuR0SKq81Ok/edit?usp=sharing)  
