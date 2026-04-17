@@ -31,9 +31,11 @@
 
 ## 🧭 Executive Summary
 
-I am operating as a Lead Data Engineer & Architect who thrives at the intersection of complex technical systems and strategic business goals. Currently, I direct telemetry architecture at a massive scale at Charter Spectrum—processing an exponentially growing 165B+ rows per hour—while augmenting auto-scaling frameworks with rigorous FinOps tuning to drive down compute costs and establish engineering standards that empower my team.
+I am operating as a Lead Data Engineer & Architect who thrives at the intersection of complex technical systems and strategic business goals. Currently, I direct telemetry architecture at a massive scale at a Fortune 500 enterprise telecom company processing exponential data growth at massive scale while augmenting auto-scaling frameworks with rigorous FinOps tuning to drive down compute costs and establish engineering standards that empower my team.
 
 With over 8 years of experience across the data lifecycle and an MBA in Data Analytics in progress, I focus on being a "Force Multiplier." Whether it’s migrating legacy Teradata systems to AWS or building custom API ingestion frameworks in Python, I ensure that every technical decision is an investment in the company’s long-term profitability.
+
+On the advisory side, I founded MHI Consulting LLC — a technical recruiting practice focused on engineering and data roles that traditional staffing channels consistently fail to fill. The same architectural judgment I apply at scale at my day job is what I bring to candidate evaluation: screening for system design depth, stack alignment, and engineering instincts that a resume filter will never catch.
 
 **Core Impact:**
 
@@ -71,11 +73,18 @@ With over 8 years of experience across the data lifecycle and an MBA in Data Ana
 
 ## 👨‍💻 Professional Experience
 
+### **Founder & Principal** @ [MHI Consulting LLC](https://www.mhiops.com/)
+*(Jan 2026 – Present)*
+* **Technical Recruiting Advisory:** Execute flat-fee, 15-business-day sprint engagements to deliver technically vetted engineering shortlists for roles that standard recruiters consistently misfill.
+* **Architectural Screening:** Leverage 8+ years of petabyte-scale engineering experience to assess candidates for system design instincts, architectural depth, and stack alignment rather than keyword matching.
+* **Delivery Guarantees:** Structure scoped and time-boxed engagements with guaranteed delivery minimums, providing risk-free extensions if targets are unmet by Day 15.
+* **Strategic Partnerships:** Consult with engineering-led organizations (Series A–C, mid-market) to successfully staff critical data engineering, platform, and infrastructure roles.
+
 ### **Senior Data Engineer (Contract)** @ [Spectrum](https://www.spectrum.com/)
 *(Dec 2023 – Present)*
-* **Massive-Scale Telemetry & FinOps:** Direct auto-scaling ingestion pipelines processing an exponential **165B+ rows/hr**, driving proactive compute tuning to sustainably support 30M+ enterprise customers.
-* **API Ingestion Framework:** Developed a serverless ingestion engine using AWS Lambda, Python, and Athena to poll JIRA APIs and automate partition-loading into S3 via parquet.
-* **Performance Optimization:** Migrated legacy HiveQL workloads to Spark on EMR 6.x, reducing daily runtimes by 5 hours and securing **$10K** in annual compute cost savings.
+* **Massive-Scale Telemetry & FinOps:** Direct auto-scaling ingestion pipelines processing exponential data growth at massive scale, driving proactive compute tuning to sustainably support 30M+ enterprise customers.
+* **API Ingestion Framework:** Developed a serverless ingestion engine using AWS Lambda, Python, and Athena to automate data capture from internal systems and automate partition-loading into S3 via parquet.
+* **Performance Optimization:** Migrated legacy analytics workloads to modern cloud-native architecture, reducing daily runtimes by 5 hours and securing **$10K** in annual compute cost savings.
 * **Engineering Standards:** Advanced team maturity by authoring a modular utility framework utilizing inheritance and unit-testing (**141+ tests**) to ensure production reliability.
 * **Technical Mentorship:** Led the technical onboarding and professional development of 6 Data Engineers, conducting code reviews and guiding best practices for AWS and Git-based workflows.
 
