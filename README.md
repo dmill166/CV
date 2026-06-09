@@ -71,6 +71,9 @@ With over 10 years of experience across the data lifecycle and a completed MBA i
 
 ## 👨‍💻 Professional Experience
 
+### **Founder & Principal** @ [MHI Consulting LLC](https://www.mhiops.com/)
+*(Jan 2026 – Present)* · Boutique technical-recruiting advisory.
+
 ### **Senior Data Engineer (Contract)** @ [Spectrum](https://www.spectrum.com/)
 *(Dec 2023 – Present)*
 * **Pipeline Architecture & FinOps:** Designed the initial architecture of an enterprise telemetry pipeline now processing **165B+ rows/hour** for 30M+ enterprise customers (Medallion raw → ingest → enriched), and delivered an estimated **$35K+ in annualized recurring compute/storage savings** through optimization and modern cloud-native migration (~5 hours of daily runtime removed).
