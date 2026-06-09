@@ -33,15 +33,14 @@
 
 I am operating as a Lead Data Engineer & Architect who thrives at the intersection of complex technical systems and strategic business goals. Currently, I direct telemetry architecture at a massive scale at a Fortune 500 enterprise telecom company processing exponential data growth at massive scale while augmenting auto-scaling frameworks with rigorous FinOps tuning to drive down compute costs and establish engineering standards that empower my team.
 
-With over 8 years of experience across the data lifecycle and an MBA in Data Analytics in progress, I focus on being a "Force Multiplier." Whether it’s migrating legacy Teradata systems to AWS or building custom API ingestion frameworks in Python, I ensure that every technical decision is an investment in the company’s long-term profitability.
-
-On the advisory side, I founded MHI Consulting LLC — a technical recruiting practice focused on engineering and data roles that traditional staffing channels consistently fail to fill. The same architectural judgment I apply at scale at my day job is what I bring to candidate evaluation: screening for system design depth, stack alignment, and engineering instincts that a resume filter will never catch.
+With over 10 years of experience across the data lifecycle and a completed MBA in Data Analytics, I focus on being a "Force Multiplier." Whether it’s migrating legacy Teradata systems to AWS or building custom API ingestion frameworks in Python, I ensure that every technical decision is an investment in the company’s long-term profitability.
 
 **Core Impact:**
 
-* **Massive Scale:** Engineered ingestion for 30M+ customers and petabyte-scale annual volumes.
-* **Strategy & ROI:** Delivered **$350K+** in annual cost savings through automation and workflow optimization.
-* **Leadership:** Mentored **6 Data Engineers** and served as Technical Lead for an organization of 14.
+* **Massive Scale:** Architected telemetry ingestion processing **165B+ rows/hour** for 30M+ customers.
+* **Strategy & ROI:** Delivered **$350K+** in cumulative cost & efficiency savings across roles through automation, FinOps, and workflow optimization.
+* **Leadership & Mentorship:** Mentored **6 Data Engineers**, served as Technical Lead for an organization of 14, and earned **15+ peer/leadership recognitions**.
+* **Innovation:** Pioneered the team's AI-augmented engineering adoption — internal AI agents, enterprise-tool piloting, and centralized engineering standards.
 
 ---
 
@@ -49,8 +48,9 @@ On the advisory side, I founded MHI Consulting LLC — a technical recruiting pr
 **Languages:** Python, SQL, Bash  
 **Cloud & Big Data:** AWS (EMR, Lambda, Glue, Athena, S3, Step Functions), Spark/PySpark, Snowflake, Redshift  
 **Architecture:** Distributed Systems, ETL/ELT Design, Serverless Ingestion, Cost Optimization (FinOps)  
-**DevOps & Tooling:** Git, GitHub Actions, Terraform, Airflow, JIRA APIs, Docker  
-**Analytics:** Data Quality Frameworks, Tableau, Alteryx, PowerBI  
+**DevOps & Tooling:** Git, GitHub Actions, Airflow, JIRA APIs (JQL)  
+**Analytics:** Data Quality Frameworks, Tableau, Alteryx, Power BI  
+**Familiar:** Terraform, Docker, Databricks  
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,10 +60,8 @@ On the advisory side, I founded MHI Consulting LLC — a technical recruiting pr
   <br>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Alteryx-0081C6?style=for-the-badge&logo=alteryx&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -73,20 +71,13 @@ On the advisory side, I founded MHI Consulting LLC — a technical recruiting pr
 
 ## 👨‍💻 Professional Experience
 
-### **Founder & Principal** @ [MHI Consulting LLC](https://www.mhiops.com/)
-*(Jan 2026 – Present)*
-* **Technical Recruiting Advisory:** Execute flat-fee, 15-business-day sprint engagements to deliver technically vetted engineering shortlists for roles that standard recruiters consistently misfill.
-* **Architectural Screening:** Leverage 8+ years of petabyte-scale engineering experience to assess candidates for system design instincts, architectural depth, and stack alignment rather than keyword matching.
-* **Delivery Guarantees:** Structure scoped and time-boxed engagements with guaranteed delivery minimums, providing risk-free extensions if targets are unmet by Day 15.
-* **Strategic Partnerships:** Consult with engineering-led organizations (Series A–C, mid-market) to successfully staff critical data engineering, platform, and infrastructure roles.
-
 ### **Senior Data Engineer (Contract)** @ [Spectrum](https://www.spectrum.com/)
 *(Dec 2023 – Present)*
-* **Massive-Scale Telemetry & FinOps:** Direct auto-scaling ingestion pipelines processing exponential data growth at massive scale, driving proactive compute tuning to sustainably support 30M+ enterprise customers.
-* **API Ingestion Framework:** Developed a serverless ingestion engine using AWS Lambda, Python, and Athena to automate data capture from internal systems and automate partition-loading into S3 via parquet.
-* **Performance Optimization:** Migrated legacy analytics workloads to modern cloud-native architecture, reducing daily runtimes by 5 hours and securing **$10K** in annual compute cost savings.
-* **Engineering Standards:** Advanced team maturity by authoring a modular utility framework utilizing inheritance and unit-testing (**141+ tests**) to ensure production reliability.
-* **Technical Mentorship:** Led the technical onboarding and professional development of 6 Data Engineers, conducting code reviews and guiding best practices for AWS and Git-based workflows.
+* **Pipeline Architecture & FinOps:** Designed the initial architecture of an enterprise telemetry pipeline now processing **165B+ rows/hour** for 30M+ enterprise customers (Medallion raw → ingest → enriched), and delivered an estimated **$35K+ in annualized recurring compute/storage savings** through optimization and modern cloud-native migration (~5 hours of daily runtime removed).
+* **API Ingestion Framework:** Developed a serverless ingestion engine using AWS Lambda, Python, and Athena to automate data capture from internal systems and partition-load into S3 via Parquet.
+* **Engineering Standards (SME):** Advanced team maturity with reusable, unit-tested utilities and frameworks adopted as team standards (**140+ unit tests**, **400+ documentation updates**); set standards for code structure and cloud fleet configuration.
+* **AI-Augmented Engineering:** Pioneered the team's AI adoption — among the first to pilot enterprise AI coding tools (Copilot, Amazon Q) and built internal AI agents and a centralized standards/config library.
+* **Technical Leadership & Mentorship:** Onboarded and upskilled 6 Data Engineers, own code reviews, and lead cross-functional troubleshooting; recognized **15+ times** by peers and leaders while sustaining high delivery (**180+ completed work items, 230+ merged code changes**).
 
 <details markdown="1">
 <summary><strong><em>🔻 Click to view Technical Environment & Additional Context</em></strong></summary>
@@ -149,7 +140,7 @@ On the advisory side, I founded MHI Consulting LLC — a technical recruiting pr
 
 ## 🎓 Education
 
-**Master of Business Administration (MBA)**, Concentration in *Data Analytics* [Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) – Fort Myers, FL *(Expected 2026)* *Focusing on the intersection of advanced data architecture, business profitability, and cost-optimization strategy.*
+**Master of Business Administration (MBA)**, Concentration in *Data Analytics* [Florida Gulf Coast University](https://onlinedegree.fgcu.edu/programs/mba/) – Fort Myers, FL *(2026)* *Focused on the intersection of advanced data architecture, business profitability, and cost-optimization strategy.*
 
 **Bachelor of Science (BS)** in Computer Science, Minor in Mathematics  
 [Metropolitan State University of Denver](https://www.msudenver.edu/computer-sciences/computer-science-major-bs/) – Denver, CO *(2022)* *Currently serving as an Alumni Member for the Computer Science and DSML Advisory Boards.*
@@ -168,6 +159,7 @@ On the advisory side, I founded MHI Consulting LLC — a technical recruiting pr
 
 **Computer Science & DSML Advisory Board Member** @ [MSU Denver](https://www.msudenver.edu/) *(May 2020 – Present)* * **Governance:** Currently serving as an Alumni Member for the **Computer Science** and **Data Science & Machine Learning (DSML)** Advisory Boards, guiding curriculum alignment with evolving industry standards, workforce readiness, and ABET accreditation requirements.
 * **Mentorship & Speaking:** Regularly invited guest speaker and mentor; recently presented *"Nodes, Edges, and Elevator Pitches: Networking Like a Computer Scientist"* to 40+ early-career technologists.
+* **Upcoming — Adjunct Teaching:** Invited by CS faculty to teach **Fundamentals of Database Systems** (anticipated Spring 2027); finalizing arrangements through the university.
 
 <details markdown="1">
 <summary><strong><em>🔻 Click to view Full Speaking & Engagement Timeline</em></strong></summary>
