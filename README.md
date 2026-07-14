@@ -24,20 +24,20 @@
 
 # Dakota Hollmann  
 
-**Lead Data Engineer & Architect | Data Strategy & Cost Optimization ($350K+ Saved)** 📍 Denver Metropolitan Area  
+**Staff Data Engineer @ Spectrum | Data Strategy & Cost Optimization ($350K+ Saved)** 📍 Denver Metropolitan Area  
 🔗 [LinkedIn](https://www.linkedin.com/in/dakota-hollmann-/) / 💻 [GitHub](https://github.com/dmill166)
 
 ---
 
 ## 🧭 Executive Summary
 
-I am operating as a Lead Data Engineer & Architect who thrives at the intersection of complex technical systems and strategic business goals. Currently, I direct telemetry architecture at a massive scale at a Fortune 500 enterprise telecom company processing exponential data growth at massive scale while augmenting auto-scaling frameworks with rigorous FinOps tuning to drive down compute costs and establish engineering standards that empower my team.
+I am a Staff Data Engineer & Architect who thrives at the intersection of complex technical systems and strategic business goals. Currently, I direct telemetry architecture at a massive scale at a Fortune 500 enterprise telecom company processing exponential data growth at massive scale while augmenting auto-scaling frameworks with rigorous FinOps tuning to drive down compute costs and establish engineering standards that empower my team.
 
 With over 10 years of experience across the data lifecycle and a completed MBA in Data Analytics, I focus on being a "Force Multiplier." Whether it’s migrating legacy Teradata systems to AWS or building custom API ingestion frameworks in Python, I ensure that every technical decision is an investment in the company’s long-term profitability.
 
 **Core Impact:**
 
-* **Massive Scale:** Architected telemetry ingestion processing **165B+ rows/hour** for 30M+ customers.
+* **Massive Scale:** Architected telemetry ingestion processing **160B+ rows/hour** for 30M+ customers.
 * **Strategy & ROI:** Delivered **$350K+** in cumulative cost & efficiency savings across roles through automation, FinOps, and workflow optimization.
 * **Leadership & Mentorship:** Mentored **6 Data Engineers**, served as Technical Lead for an organization of 14, and earned **15+ peer/leadership recognitions**.
 * **Innovation:** Pioneered the team's AI-augmented engineering adoption — internal AI agents, enterprise-tool piloting, and centralized engineering standards.
@@ -74,9 +74,16 @@ With over 10 years of experience across the data lifecycle and a completed MBA i
 ### **Founder & Principal** @ [MHI Consulting LLC](https://www.mhiops.com/)
 *(Jan 2026 – Present)* · Boutique technical-recruiting advisory.
 
+### **Staff Data Engineer** @ [Spectrum](https://www.spectrum.com/)
+*(Jul 2026 – Present)*
+* **New-Team Foundation:** Converted from contract to full-time at Staff level to anchor a new project team — owning data architecture that unifies disparate enterprise data sources toward a single analytical goal.
+* **Continued Scope, Expanded Mandate:** Retain code-review ownership, engineering-standards authorship, and AI-augmented engineering leadership, now with formal Staff-level responsibility for team roadmap, mentorship, and delivery.
+
+---
+
 ### **Senior Data Engineer (Contract)** @ [Spectrum](https://www.spectrum.com/)
-*(Dec 2023 – Present)*
-* **Pipeline Architecture & FinOps:** Designed the initial architecture of an enterprise telemetry pipeline now processing **165B+ rows/hour** for 30M+ enterprise customers (Medallion raw → ingest → enriched), and delivered an estimated **$35K+ in annualized recurring compute/storage savings** through optimization and modern cloud-native migration (~5 hours of daily runtime removed).
+*(Dec 2023 – Jul 2026)*
+* **Pipeline Architecture & FinOps:** Designed the initial architecture of an enterprise telemetry pipeline now processing **160B+ rows/hour** for 30M+ enterprise customers (Medallion raw → ingest → enriched), and delivered an estimated **$35K+ in annualized recurring compute/storage savings** through optimization and modern cloud-native migration (~5 hours of daily runtime removed).
 * **API Ingestion Framework:** Developed a serverless ingestion engine using AWS Lambda, Python, and Athena to automate data capture from internal systems and partition-load into S3 via Parquet.
 * **Engineering Standards (SME):** Advanced team maturity with reusable, unit-tested utilities and frameworks adopted as team standards (**140+ unit tests**, **400+ documentation updates**); set standards for code structure and cloud fleet configuration.
 * **AI-Augmented Engineering:** Pioneered the team's AI adoption — among the first to pilot enterprise AI coding tools (Copilot, Amazon Q) and built internal AI agents and a centralized standards/config library.
